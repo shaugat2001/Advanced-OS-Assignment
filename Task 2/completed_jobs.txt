@@ -1,0 +1,12 @@
+
+,
+01,weathersimulation
+03,assignment
+02,AI-model
+04,scheduler
+05,advanced os
+06,resource management
+08,linuxmint
+07,linux
+09,imageclassifier
+10,data predict

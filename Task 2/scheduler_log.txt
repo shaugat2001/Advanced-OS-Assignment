@@ -1,0 +1,23 @@
+
+Fri Mar 13 09:09:09 PM EDT 2026 - Job Submitted - Student:01 Job:weathersimulation
+Fri Mar 13 09:13:25 PM EDT 2026 - Job Submitted - Student:02 Job:AI-model
+Fri Mar 13 09:13:44 PM EDT 2026 - Job Submitted - Student:03 Job:assignment
+Fri Mar 13 09:22:13 PM EDT 2026 - Executed  by  using Round Robin
+Fri Mar 13 09:22:15 PM EDT 2026 - Executed weathersimulation by 01 using Round Robin
+Fri Mar 13 09:22:19 PM EDT 2026 - Executed assignment by 03 using Round Robin
+Fri Mar 13 09:23:43 PM EDT 2026 - Executed AI-model by 02 using Priority
+Fri Mar 13 09:27:37 PM EDT 2026 - Job Submitted - Student:04 Job:scheduler
+Fri Mar 13 09:27:56 PM EDT 2026 - Job Submitted - Student:05 Job:advanced os
+Fri Mar 13 09:28:34 PM EDT 2026 - Job Submitted - Student:06 Job:resource management
+Fri Mar 13 09:28:49 PM EDT 2026 - Executed scheduler by 04 using Priority
+Fri Mar 13 09:28:51 PM EDT 2026 - Executed advanced os by 05 using Priority
+Fri Mar 13 09:28:53 PM EDT 2026 - Executed resource management by 06 using Priority
+Fri Mar 13 09:35:53 PM EDT 2026 - Job Submitted - Student:07 Job:linux
+Fri Mar 13 09:36:45 PM EDT 2026 - Job Submitted - Student:08 Job:linuxmint
+Fri Mar 13 09:37:09 PM EDT 2026 - Job Submitted - Student:09 Job:imageclassifier
+Fri Mar 13 09:37:48 PM EDT 2026 - Job Submitted - Student:10 Job:data predict
+Fri Mar 13 09:38:00 PM EDT 2026 - Executed linuxmint by 08 using Priority
+Fri Mar 13 09:38:02 PM EDT 2026 - Executed linux by 07 using Priority
+Fri Mar 13 09:38:04 PM EDT 2026 - Executed imageclassifier by 09 using Priority
+Fri Mar 13 09:38:06 PM EDT 2026 - Executed data predict by 10 using Priority
+Fri Mar 13 10:01:37 PM EDT 2026 - Job Submitted - Student:01 Job:data analysis

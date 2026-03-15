@@ -1,0 +1,4 @@
+08,linuxmint,7,9
+07,linux,7,8
+09,imageclassifier,6,6
+10,data predict,5,4

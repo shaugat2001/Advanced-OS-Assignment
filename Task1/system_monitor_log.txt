@@ -1,0 +1,15 @@
+Fri Mar 13 09:58:35 AM EDT 2026 - Checked CPU and memory usage
+Fri Mar 13 11:00:22 AM EDT 2026 - Viewed top 10 processes
+Fri Mar 13 11:11:37 AM EDT 2026 - Viewed top 10 processes
+Fri Mar 13 11:24:43 AM EDT 2026 - Process 4407 terminated
+Fri Mar 13 11:40:06 AM EDT 2026 - Checked disk usage for /var/log
+Fri Mar 13 11:43:24 AM EDT 2026 - Checked disk usage for /home/saugat/Testlogs
+Fri Mar 13 11:43:50 AM EDT 2026 - Checked disk usage for home/saugat/TestLogs
+Fri Mar 13 11:45:58 AM EDT 2026 - Checked disk usage for home/saugat/TestLogs
+Fri Mar 13 11:50:03 AM EDT 2026 - Checked disk usage for /home/saugat/TestLogs
+Fri Mar 13 11:58:53 AM EDT 2026 - Archived ./TestLogs/test1.log
+Fri Mar 13 11:58:54 AM EDT 2026 - Archived ./TestLogs/test2.log
+Fri Mar 13 11:59:51 AM EDT 2026 - Checked disk usage for /home/saugat/TestLogs
+Fri Mar 13 11:59:58 AM EDT 2026 - Archived ./TestLogs/test1.log
+Fri Mar 13 11:59:58 AM EDT 2026 - Archived ./TestLogs/test2.log
+Fri Mar 13 12:19:09 PM EDT 2026 - System exited
